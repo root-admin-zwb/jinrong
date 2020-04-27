@@ -7,12 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hiworld" />
-<<<<<<< .merge_file_a24632
-        <module name="jinong" />
-=======
         <module name="hiworld3" />
->>>>>>> .merge_file_a25528
         <module name="hiworld2" />
+        <module name="lianxi3" />
       </profile>
     </annotationProcessing>
   </component>
