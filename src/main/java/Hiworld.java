@@ -6,5 +6,7 @@ public class Hiworld {
 
         System.out.println("12345678910");
         System.out.println("周帅测试2");
+
+        System.out.println("周帅二次一游");
     }
 }
