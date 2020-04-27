@@ -13,6 +13,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 =======
     <list default="true" id="adca0c06-5b17-4cf6-b7c4-6ff3695a1ee7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Hiworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hiworld.java" afterDir="false" />
 >>>>>>> zs_zwb_dyt
 >>>>>>> ec5cfac51c923029e17eb612dd8fb72f1a64ce6f
@@ -35,6 +36,7 @@
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="230">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
 =======
@@ -51,6 +53,10 @@
               <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
 >>>>>>> zs_zwb_dyt
 >>>>>>> ec5cfac51c923029e17eb612dd8fb72f1a64ce6f
+=======
+            <state relative-caret-position="260">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+>>>>>>> zs_zwb_dyt
             </state>
           </provider>
         </entry>
@@ -100,8 +106,13 @@
     <option name="height" value="1012" />
 =======
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="245" />
     <option name="y" value="54" />
+=======
+    <option name="x" value="237" />
+    <option name="y" value="57" />
+>>>>>>> zs_zwb_dyt
     <option name="width" value="1616" />
     <option name="height" value="970" />
 >>>>>>> origin/master
@@ -187,6 +198,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../lianxi4" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
@@ -244,6 +258,7 @@
       <option name="project" value="LOCAL" />
       <updated>1587861997226</updated>
     </task>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -347,9 +362,23 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="2913000" />
+=======
+    <task id="LOCAL-00003" summary="周帅">
+      <created>1587979991469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587979991469</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3870000" />
+>>>>>>> zs_zwb_dyt
   </component>
   <component name="ToolWindowManager">
-    <frame x="309" y="60" width="1616" height="970" extended-state="0" />
+    <frame x="539" y="91" width="1616" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26285347" />
@@ -447,6 +476,7 @@
     <MESSAGE value="1234" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ec5cfac51c923029e17eb612dd8fb72f1a64ce6f
 <<<<<<< HEAD
@@ -465,6 +495,10 @@
 >>>>>>> remotes/origin/zs_zwb_dyt
 =======
 >>>>>>> ec5cfac51c923029e17eb612dd8fb72f1a64ce6f
+=======
+    <MESSAGE value="周帅" />
+    <option name="LAST_COMMIT_MESSAGE" value="周帅" />
+>>>>>>> zs_zwb_dyt
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -476,6 +510,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Hiworld.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="230">
@@ -494,6 +529,10 @@
           <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
 >>>>>>> zs_zwb_dyt
 >>>>>>> ec5cfac51c923029e17eb612dd8fb72f1a64ce6f
+=======
+        <state relative-caret-position="260">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+>>>>>>> zs_zwb_dyt
         </state>
       </provider>
     </entry>
