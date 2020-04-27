@@ -9,6 +9,7 @@
         <module name="hiworld" />
         <module name="hiworld3" />
         <module name="hiworld2" />
+        <module name="lianxi3" />
       </profile>
     </annotationProcessing>
   </component>
